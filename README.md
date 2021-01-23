@@ -2,7 +2,7 @@
 
 This project will encompass everything we have learned so far with Python Data Science tools.
 
-The Basket Ball Dataset include numerical and catergical data:
+The Basket Ball Dataset include numerical and catergical data, here is a simple description of the columns names:
 - names :players name
 - handedness: Right, left, and Both
 - height: players height
