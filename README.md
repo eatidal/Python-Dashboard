@@ -11,7 +11,7 @@ The Basket Ball Dataset include numerical and catergical data:
 - HR: Players Home Runs
 
 **Images:**
-[First fig](C:\Users\LENOVO\Documents\GitHub\images\gif1)
+[<img width="700" height="600" src="gif1.gif">](C:\Users\LENOVO\Documents\GitHub\images\gif1)
 
 **Resources:**
 [Link of Dataset](https://github.com/jtrob704/BaseballData-Tableau/blob/master/baseball_data.csv)
