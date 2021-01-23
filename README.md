@@ -30,4 +30,4 @@ Interactive scatter plot to display HR and avg for all players
 - [Farah Sidina](https://github.com/faro7ah)
 - [Sarah Alhugail](https://github.com/SarahAlhugail)
 - [Eatidal Almutairi](https://github.com/eatidal)
-- [Bedoor Alharbi](https://gist.github.com/ibedoor)
+- [Bedoor Alharbi](https://github.com/ibedoor)
