@@ -27,7 +27,7 @@ Interactive scatter plot to display HR and avg for all players
 [Link of Dataset](https://github.com/jtrob704/BaseballData-Tableau/blob/master/baseball_data.csv)
 
 **Group Members:**
-- Farah Sidina
-- Sarah Alhugail
-- Eatidal Almutairi
-- Bedoor Alharbi
+- [Farah Sidina](https://github.com/faro7ah)
+- [Sarah Alhugail](https://github.com/SarahAlhugail)
+- [Eatidal Almutairi](https://github.com/eatidal)
+- [Bedoor Alharbi](https://gist.github.com/ibedoor)
